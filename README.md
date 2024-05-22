@@ -1,4 +1,5 @@
 [![DOI](https://zenodo.org/badge/804596288.svg)](https://zenodo.org/doi/10.5281/zenodo.11251877)
+
 EV-Project wildfire case study
 
 1. **Code Folder**: This folder contains all the necessary code for our project.
