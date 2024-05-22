@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/804596288.svg)](https://zenodo.org/doi/10.5281/zenodo.11251877)
 
-EV-Project wildfire case study
+### EV-Project wildfire case study
 
 1. **Code Folder**: This folder contains all the necessary code for our project.
    - **Initialization**: Begin by initializing the car numbers at different charge levels at all nodes using "car_number_initialization_normal.ipynb" This script generates three different cases for normal charge speed. When the charging speed is halved, then we use "car_number_initialization_half_speed.ipynb" to initialize the car numbers at different charge levels at different nodes.
